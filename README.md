@@ -11,5 +11,5 @@ Every app, they work by creating its cache in `/data/data/*/cache`. Cache is jus
 
 Every time you need to wipe cache, just type:
 ```
-su -c clear_cache
+su -c cc
 ```
